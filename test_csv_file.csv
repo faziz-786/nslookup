@@ -1,5 +1,5 @@
 ,domain,ip_address,ip_address_from_domain,reverse_domain_from_ip
-0,google.com,142.251.32.78,142.251.41.46,78.32.251.142.in-addr.arpa.
+0,google.com,142.251.32.78,142.251.32.78,78.32.251.142.in-addr.arpa.
 1,facebook.com,157.240.254.35,157.240.249.35,35.254.240.157.in-addr.arpa.
 2,amazon.com,54.239.28.85,52.94.236.248,85.28.239.54.in-addr.arpa.
 3,apple.com,17.253.144.10,17.253.144.10,10.144.253.17.in-addr.arpa.
